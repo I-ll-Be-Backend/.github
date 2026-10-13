@@ -12,10 +12,9 @@ Programming lessons that start from working code with a real problem in it, then
 - [C#](https://github.com/I-ll-Be-Backend/csharp-refactoring-and-design-patterns)
 - [Python](https://github.com/I-ll-Be-Backend/python-refactoring-and-design-patterns)
 - [PHP](https://github.com/I-ll-Be-Backend/php-refactoring-and-design-patterns)
-- [TypeScript](https://github.com/I-ll-Be-Backend/typescript-refactoring-and-design-patterns)
 
 ## Lessons
 
-| Lesson | Java | C# | Python | PHP | TypeScript |
-|---|---|---|---|---|---|
-| [DRY: one rule, one place](https://illbebackend.dev/lessons/dry/java/) | [code](https://github.com/I-ll-Be-Backend/java-refactoring-and-design-patterns/tree/main/dry) | [code](https://github.com/I-ll-Be-Backend/csharp-refactoring-and-design-patterns/tree/main/dry) | [code](https://github.com/I-ll-Be-Backend/python-refactoring-and-design-patterns/tree/main/dry) | [code](https://github.com/I-ll-Be-Backend/php-refactoring-and-design-patterns/tree/main/dry) | [code](https://github.com/I-ll-Be-Backend/typescript-refactoring-and-design-patterns/tree/main/dry) |
+| Lesson | Java | C# | Python | PHP |
+|---|---|---|---|---|
+| [DRY: one rule, one place](https://illbebackend.dev/lessons/dry/java/) | [code](https://github.com/I-ll-Be-Backend/java-refactoring-and-design-patterns/tree/main/dry) | [code](https://github.com/I-ll-Be-Backend/csharp-refactoring-and-design-patterns/tree/main/dry) | [code](https://github.com/I-ll-Be-Backend/python-refactoring-and-design-patterns/tree/main/dry) | [code](https://github.com/I-ll-Be-Backend/php-refactoring-and-design-patterns/tree/main/dry) |
