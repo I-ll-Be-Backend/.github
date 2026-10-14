@@ -9,6 +9,7 @@ Programming lessons that start from working code with a real problem in it, then
 ## Code by language
 
 - [Java](https://github.com/I-ll-Be-Backend/java-refactoring-and-design-patterns)
+- [Kotlin](https://github.com/I-ll-Be-Backend/kotlin-refactoring-and-design-patterns)
 - [C#](https://github.com/I-ll-Be-Backend/csharp-refactoring-and-design-patterns)
 - [C++](https://github.com/I-ll-Be-Backend/cpp-refactoring-and-design-patterns)
 - [Python](https://github.com/I-ll-Be-Backend/python-refactoring-and-design-patterns)
@@ -18,7 +19,7 @@ Programming lessons that start from working code with a real problem in it, then
 
 ## Lessons
 
-| Lesson | Java | C# | C++ | Python | Ruby | PHP | TypeScript |
-|---|---|---|---|---|---|---|---|
-| [DRY: one rule, one place](https://illbebackend.dev/lessons/dry/java/) | [code](https://github.com/I-ll-Be-Backend/java-refactoring-and-design-patterns/tree/main/dry) | [code](https://github.com/I-ll-Be-Backend/csharp-refactoring-and-design-patterns/tree/main/dry) | [code](https://github.com/I-ll-Be-Backend/cpp-refactoring-and-design-patterns/tree/main/dry) | [code](https://github.com/I-ll-Be-Backend/python-refactoring-and-design-patterns/tree/main/dry) | [code](https://github.com/I-ll-Be-Backend/ruby-refactoring-and-design-patterns/tree/main/dry) | [code](https://github.com/I-ll-Be-Backend/php-refactoring-and-design-patterns/tree/main/dry) | [code](https://github.com/I-ll-Be-Backend/typescript-refactoring-and-design-patterns/tree/main/dry) |
-| [Clean code: rename for intent](https://illbebackend.dev/lessons/rename-for-intent/java/) | [code](https://github.com/I-ll-Be-Backend/java-refactoring-and-design-patterns/tree/main/rename-for-intent) |  |  |  |  |  |  |
+| Lesson | Java | Kotlin | C# | C++ | Python | Ruby | PHP | TypeScript |
+|---|---|---|---|---|---|---|---|---|
+| [DRY: one rule, one place](https://illbebackend.dev/lessons/dry/java/) | [code](https://github.com/I-ll-Be-Backend/java-refactoring-and-design-patterns/tree/main/dry) |  | [code](https://github.com/I-ll-Be-Backend/csharp-refactoring-and-design-patterns/tree/main/dry) | [code](https://github.com/I-ll-Be-Backend/cpp-refactoring-and-design-patterns/tree/main/dry) | [code](https://github.com/I-ll-Be-Backend/python-refactoring-and-design-patterns/tree/main/dry) | [code](https://github.com/I-ll-Be-Backend/ruby-refactoring-and-design-patterns/tree/main/dry) | [code](https://github.com/I-ll-Be-Backend/php-refactoring-and-design-patterns/tree/main/dry) | [code](https://github.com/I-ll-Be-Backend/typescript-refactoring-and-design-patterns/tree/main/dry) |
+| [Clean code: rename for intent](https://illbebackend.dev/lessons/rename-for-intent/java/) | [code](https://github.com/I-ll-Be-Backend/java-refactoring-and-design-patterns/tree/main/rename-for-intent) | [code](https://github.com/I-ll-Be-Backend/kotlin-refactoring-and-design-patterns/tree/main/rename-for-intent) |  |  |  |  |  |  |
